@@ -1,4 +1,4 @@
-xCold and dry, but everything is my favorite color.
+Cold and dry, but everything is my favorite color.
 
 Two moons may be a problem for Wolfman.
 
@@ -8,3 +8,5 @@ New speci discovered.
 txsgxh
 
 Hello from Earth.
+
+Hello, how is the weather?
